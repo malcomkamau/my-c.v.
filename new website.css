@@ -1,0 +1,76 @@
+body {
+  background-image: url("matte.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+}
+
+.title {
+  color: white;
+  font-weight: bold;
+  font-size: 50px;   
+  text-decoration: underline;
+  border-color: rgb(0, 191, 255);
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-top-style: none;
+  font-family: times;
+}
+
+.cv {
+  background-color: rgba(255, 255, 255, 0.79);
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  line-height: 20px;
+  width: 500px;
+  font-family: sans-serif;
+}
+
+.learn {
+  color: white;
+  width: 500px;
+}
+
+.supersimpledev {
+  font-weight: bold;
+  text-decoration: none;
+  color: rgb(0, 195, 255);
+}
+
+.supersimpledev:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.hobby1 {
+  color: white;
+  width: 500px;
+}
+
+.languages {
+  color: white;
+  width: 59px;
+  margin-left: 25px;
+}
+
+.sub-title1 {
+  color: white;
+  font-size: 25px;
+  margin-top: 12px;
+}
+
+.project {
+  color: white;
+}
+
+.project-video {
+  width: 300px;
+  border-radius: 25px;
+}
